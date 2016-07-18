@@ -1,0 +1,13 @@
+html {
+    background-color: #000000; 
+    background-image: url("http://nukethefridge.com/wp-content/uploads/2012/04/Man_of_Steel_new_logo.jpg" alt="SuperMan" style="width:1150px;height:800px;" class="Superboy");
+}
+.Spiderboy {
+    position: fixed;    
+}
+.Flashboy {
+    position: fixed;    
+}
+.Allboys {
+    position: fixed;    
+}
